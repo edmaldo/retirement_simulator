@@ -1,7 +1,7 @@
 """ Using text files storing historical financial data from 1926 to 2013, the user
 can choose an investment strategy that is then simulated with their initial investment,
 annual withdrawals, and years in retirement. The program starts on a random point in
-the timeline between 1926 - 2013 and simulates the investment with the given amount
+the timeline between 1926 - 2013 and simulates the investment with the given number
 of retirement years, i.e. starting at 1954 and retired for 30 years will simulate
 the investment with data from 1954 to 1984. The user can choose how many 'runs'
 the simulation preforms with their input values. The first 3000 runs are graphed."""
